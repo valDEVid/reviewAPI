@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "UltraBook X1",
+        "price": 1499,
+        "description": "Powerful laptop with Intel Core i7, 16GB RAM, and 512GB SSD",
+        "category": {
+            "id": 1,
+            "name": "Laptop"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Gaming Beast",
+        "price": 2499,
+        "description": "High-performance gaming laptop with NVIDIA GeForce RTX 3080",
+        "category": {
+            "id": 1,
+            "name": "Laptop"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Convertible Touch",
+        "price": 1099,
+        "description": "2-in-1 laptop with touchscreen display and long battery life",
+        "category": {
+            "id": 1,
+            "name": "Laptop"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Drift Knob",
+        "price": 49,
+        "description": "Short knob to improve your shifts while driving",
+        "category": {
+            "id": 2,
+            "name": "Car Parts"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Carbon Fiber Spoiler",
+        "price": 199,
+        "description": "Enhance the aerodynamics of your car with this sleek carbon fiber spoiler",
+        "category": {
+            "id": 2,
+            "name": "Car parts"
+        }
+    },
+    {
+        "id": 6,
+        "title": "LED Headlight Conversion Kit",
+        "price": 79,
+        "description": "Upgrade your car's lighting with this high-performance LED headlight conversion kit",
+        "category": {
+            "id": 2,
+            "name": "Car parts"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Elegant Dining Table",
+        "price": 599,
+        "description": "Beautiful wooden dining table with seating for six",
+        "category": {
+            "id": 3,
+            "name": "Furniture"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Comfortable Sofa",
+        "price": 899,
+        "description": "Plush sofa with reclining features and built-in cup holders",
+        "category": {
+            "id": 3,
+            "name": "Furniture"
+        }
+    },
+    {
+        "id": 9,
+        "title": "Spacious Wardrobe",
+        "price": 799,
+        "description": "Large wardrobe with ample storage space and full-length mirror",
+        "category": {
+            "id": 3,
+            "name": "Furniture"
+        }
+    }
+]
